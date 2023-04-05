@@ -9,7 +9,7 @@
   "author": "Sohanlal kushwaha",
   "license": "ISC",
   "dependencies": {
-    "http": "^0.2.0",
+    "http": "^0.1.0",
     "https": "^1.0.0"
   }
 }
