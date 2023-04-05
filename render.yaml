@@ -1,0 +1,9 @@
+name: chat
+env:
+  - key: PORT
+    value: "3000"
+build:
+  - dockerfile: Dockerfile
+    context: .
+start:
+  - cmd: npm start
